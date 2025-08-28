@@ -64,6 +64,7 @@ For convenience and reproducibility, a copy (`Engineering_graduate_salary.csv`) 
 ```
 Graduate-Salary-Prediction-ML/
 │── README.md
+│── LICENSE
 │── requirements.txt
 │
 ├── notebooks/
