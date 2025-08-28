@@ -68,7 +68,7 @@ Graduate-Salary-Prediction-ML/
 │── requirements.txt
 │
 ├── notebooks/
-│   └── Graduate-Salary-Prediction.ipynb
+│   └── Predicting-Engineering-Graduate-Salaries-using-Machine-Learning.ipynb
 │
 └── Data/
     └── Engineering_graduate_salary.csv
